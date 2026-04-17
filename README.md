@@ -13,9 +13,13 @@ and a user profile page.
 ## 📁 Structure
 
 ├── faceBook.html   # Main news feed page
+
 ├── profile.html    # User profile page
+
 ├── faceBook.css    # Stylesheet
+
 ├── script.js       # JavaScript interactions
+
 └── images/         # Static assets
 
 ## 🚀 Getting Started
